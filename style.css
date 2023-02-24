@@ -328,13 +328,13 @@ p {
   }
 }
 .container-contact form{
-  width: 800px;
+  width: 100px;
   display: flex;
   flex-direction: column;
 }
 
 .container-contact form label{
-  margin-top: 10px;
+  margin-top: 50px;
 }
 
 .container-contact form input{
