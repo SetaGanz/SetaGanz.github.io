@@ -215,7 +215,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   .navbar-brand {
-    margin-left: 20px;
+    margin-left: 125px;
   }
   .navbar-nav {
     padding: 20px 30px;
